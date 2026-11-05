@@ -1,12 +1,16 @@
+
 # My first GitHub program
 
-name = "Hello GitHub!"
+print("Welcome to my GitHub repository!")
 
-print(name)
+name = "Developer"
+print("Hello,", name)
 
 a = 10
 b = 20
 
-sum = a + b
-
-print("Sum =", sum)
+# Arithmetic operations
+print("Addition =", a + b)
+print("Subtraction =", a - b)
+print("Multiplication =", a * b)
+print("Division =", a / b)
